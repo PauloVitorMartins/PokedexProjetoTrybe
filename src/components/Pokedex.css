@@ -1,0 +1,32 @@
+.pokedex-container {
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+}
+
+li {
+    text-align: center;
+    margin: 40px;
+    border: 1px solid #ffffff;
+}
+
+body {
+    background-image: url('../images/wallpaper.webp');
+    background-position: center;
+}
+
+.container {
+    background-color: #368ac7;
+    border: 5px solid #acdeff;
+    display: flex;
+    justify-content: center;
+}
+
+.title-pokedex {
+    color: #9b9c94;
+    font-size: 80px;
+}
+
+.main-content {
+    text-align: center;
+}
