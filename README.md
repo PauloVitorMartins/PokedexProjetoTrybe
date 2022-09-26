@@ -1,3 +1,5 @@
+EXERCICIO PASSADO PELA TRYBE QUE CONSISTIA EM CRIAR UMA POKEDEX POR MEIO DE REACT, SEGUEM AS INSTRUÇÕES PASSADAS:
+
 # Boas-vindas ao repositório do exercício Pokédex Components!
 
 Para realizar o exercício, atente-se a cada passo descrito a seguir e, se tiver qualquer dúvida, nos envie por _Slack_! #vqv 🚀
